@@ -14,7 +14,7 @@
     "serve": "^14.2.4"
   },
   "dependencies": {
-    "json-server": "^0.17.3"
+    "json-server": "^0.17.4"
   },
   "keywords": [],
   "author": "",
